@@ -1,6 +1,7 @@
 import React from "react";
 
 function Portfolio(){
+    return(
     <div>
 
 <main id = "online-reputation-management">
@@ -36,6 +37,6 @@ function Portfolio(){
 
 
 </div>
-}
+    )}
 
 export default Portfolio;

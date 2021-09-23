@@ -1,7 +1,7 @@
 import React from "react";
 
 function References(){
-
+return(
 <div>
 
 <nav class="header"> 
@@ -22,7 +22,7 @@ function References(){
 </nav>
 </nav> 
 </div>
-
+)
 }
 
 export default References;

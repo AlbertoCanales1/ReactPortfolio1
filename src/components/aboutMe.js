@@ -1,6 +1,7 @@
 import React from "react";
 
 function aboutMe(){
+    return(
     <div>
 
 <h1 class="about-me">About me </h1>
@@ -14,6 +15,7 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
         
 
     </div>
+)
 }
 
 export default aboutMe;
