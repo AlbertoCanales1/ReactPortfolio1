@@ -1,11 +1,13 @@
 import React from "react";
 
+
+
 function aboutMe(){
     return(
     <div>
 
-<h1 class="about-me">About me </h1>
-            <p class="about-me">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id congue metus. Nam porttitor vehicula fringilla. Sed egestas accumsan consequat. Fusce tristique sollicitudin tellus at aliquam. Nulla ante quam, molestie in imperdiet dignissim, ultrices eget sapien. Aenean iaculis sagittis placerat. Donec id porttitor ligula. Aliquam in felis sit amet orci vehicula tristique. Suspendisse id ornare dolor, sit amet efficitur augue. Proin mollis rutrum ultricies.
+<h1>About me </h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id congue metus. Nam porttitor vehicula fringilla. Sed egestas accumsan consequat. Fusce tristique sollicitudin tellus at aliquam. Nulla ante quam, molestie in imperdiet dignissim, ultrices eget sapien. Aenean iaculis sagittis placerat. Donec id porttitor ligula. Aliquam in felis sit amet orci vehicula tristique. Suspendisse id ornare dolor, sit amet efficitur augue. Proin mollis rutrum ultricies.
 
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed volutpat erat at convallis ultrices. Pellentesque hendrerit laoreet ultricies. Nunc leo mi, condimentum at massa sit amet, auctor hendrerit turpis. Sed vestibulum accumsan auctor. Cras et tortor tempor, facilisis velit eu, lacinia ligula. Donec tempor purus libero, non lobortis magna rhoncus eget. Praesent turpis erat, ornare quis leo quis, consequat pulvinar nisl. Etiam tortor tellus, egestas eget sodales vel, pharetra et lectus. Nulla eu suscipit diam, at dignissim augue. Sed venenatis iaculis accumsan. Sed non eros arcu. Pellentesque magna turpis, faucibus in ex vel, faucibus lobortis lorem. Donec nec condimentum libero. Sed condimentum libero orci, et placerat leo consectetur nec.
 

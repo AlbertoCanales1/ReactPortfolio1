@@ -4,7 +4,7 @@ function References(){
 return(
 <div>
 
-<nav class="header"> 
+<nav> 
 
 <h1>Contact me</h1>
 <nav>
